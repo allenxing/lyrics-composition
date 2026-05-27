@@ -595,10 +595,8 @@ Hook 必须是动作（走/等/熬）、决定（算了/够了）、或形象（
 
 构造 Style/Tags 所需的核心信息已内嵌在本文件中（7 元素公式见下方、Metatags 速查见后表、体裁→Genre 映射见六步法）。以下参考文件仅在用户要求**高级/工业级风格控制**时按需读取：
 
-- `references/suno/suno-chinese-prompts.md` — 中文音乐专属模板
 - `references/suno/suno-field-guide.md` §3 + §5 — 7 元素公式深度讲解
 - `references/suno/suno-industrial-handbook.md` — 工业级 Style 模板
-- `references/suno/blake-crosley-guide.md` — 元标签完整参考
 
 ### 词风驱动风格 — Style 自动生成规则
 

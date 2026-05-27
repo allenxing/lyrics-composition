@@ -31,8 +31,6 @@ lyrics-composition/
 │   └── suno/                           # Suno 参考手册
 │       ├── suno-field-guide.md
 │       ├── suno-industrial-handbook.md
-│       ├── suno-chinese-prompts.md
-│       ├── blake-crosley-guide.md
 │       └── README.md
 └── README.md
 ```
